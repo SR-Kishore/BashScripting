@@ -4,7 +4,7 @@
 
 # echo "This is my first program"
 
-NAME="Ravish "
+NAME="Kishore "
 echo $NAME
-echo ${NAME}Rawat
-echo "My full name is "${NAME}Rawat
+echo ${NAME}SR
+echo "My full name is "${NAME}SR
